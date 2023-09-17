@@ -1,16 +1,5 @@
-# user_authentication_app
+![image](https://github.com/vishalpanchal007/user_authentication_app/assets/117709901/95e2cfce-899a-4675-8f5a-0b0dd3db68a3)
 
-A new Flutter project.
 
-## Getting Started
+Uploading WhatsApp Video 2023-09-16 at 10.14.44 PM (2) (1) (1) (1).mp4…
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
